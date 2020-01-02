@@ -1,0 +1,14 @@
+{
+	"梅花":{
+		"isCollected":"1",
+		"translated":"Plum blossom"
+	},
+	"向日葵":{
+		"isCollected":"1",
+		"translated":"Sunflower"
+	},
+	"玫瑰花":{
+		"isCollected":"1",
+		"translated":"Rose"
+	}
+}
